@@ -1,7 +1,7 @@
 ### Heya! 👋
 
 ### A bit about me
-Hey, I am David Santos! I'm currently graduating in System Analysis and Development at Fatec Indaiatuba.
+I am David Santos! I'm currently graduating in System Analysis and Development at Fatec Indaiatuba.
 
 I grew up learning everything I could on the internet, and programming caught my attention the most.
 
