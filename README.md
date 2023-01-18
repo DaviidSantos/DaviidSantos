@@ -21,10 +21,13 @@ I'm also interested in Go and functional programming, especially OCaml.
 
 :panda_face: relax, write some code, drink some coffee, and enjoy life ☕
 
-<div align="center">
-  <a href="https://github.com/DaviidSantos">
-  <img align="left" width="48% height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviidSantos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</div>
+### My Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ![Snake animation](https://github.com/DaviidSantos/DaviidSantos/blob/output/github-contribution-grid-snake.svg)
 
