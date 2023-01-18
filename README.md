@@ -9,7 +9,7 @@ I've always been a rapid learner and passionate about knowing how things work.
 
 I like basketball, animals, anime and coding 🖥️
 
-I'm currently improving my technical skills, studyng Java, Spring Boot and JUnit
+I'm currently improving my technical skills, studying Java, Spring Boot and JUnit
 
 I'm also interested in Go and functional programming, especially OCaml.
 
