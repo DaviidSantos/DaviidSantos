@@ -21,3 +21,12 @@ I'm also interested in Go and functional programming, especially OCaml.
 
 :panda_face: relax, write some code, drink some coffee, and enjoy life ☕
 
+<div align="center">
+  <a href="https://github.com/DaviidSantos">
+  <img align="left" width="48% height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviidSantos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img width="48% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviidSantos&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+
+  ## 📈 GitHub Stats
+![Snake animation](https://github.com/DaviidSantos/yRenato36/blob/output/github-contribution-grid-snake.svg)
+
