@@ -11,7 +11,7 @@ I like basketball, animals, anime and coding 🖥️
 
 I'm currently improving my technical skills, studying Java, Spring and JUnit
 
-I'm also interested in Go and functional programming, especially OCaml.
+I'm also interested in Go and Rust
 
 💬 Find me on [Linkedin](https://www.linkedin.com/in/daavidpsantos/)
 
