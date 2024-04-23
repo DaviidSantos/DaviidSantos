@@ -7,9 +7,9 @@ I grew up learning everything I could on the internet, and programming caught my
 
 I've always been a rapid learner and passionate about knowing how things work.
 
-I like basketball, animals, anime and coding 🖥️
+I like basketball, animals and coding 🖥️
 
-I'm currently improving my technical skills, studying Golang
+I'm currently improving my technical skills, studying Java and Angular.
 
 I'm also interested in Rust
 
